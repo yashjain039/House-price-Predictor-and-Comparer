@@ -1,0 +1,35 @@
+
+	Welcome to our Help & Support,
+                       we hope you find what you are looking for.
+
+ 1) Home Page.
+
+	You can choose to use our system's values,
+   which will lead you to Predictor and Comparison page as well as
+   show you the Selling price by different parameters.
+   Also, you can simply use your own Data if preffered.
+
+ 2) Input Data.
+
+	If you have decided to use your own data, you can
+   choose a parameter that is nessesary to you, Input the choosen
+   factor values in Input Data field co-relating to the prices that
+   is input in the Input Price field. (Note: Provide data separated
+   by comma, numbers in Price is multiplied by 100,000).
+
+ 3) Housing Prices.
+
+	From here you can choose the Predictor (a) or
+   Comparison (b).
+
+	a) which can predict the price by your choosen
+   parameter and quantity of your choice.
+
+	b) which can compare the price of your selected
+   town with the parameter of training set with the best regression
+   line.
+
+ 4) Predictor.
+
+	Bear in mind that some values of parameters given
+   is multiplied by 1000.
